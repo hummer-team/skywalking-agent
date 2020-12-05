@@ -1,0 +1,5 @@
+sqlserver-4.0=org.apache.skywalking.apm.plugin.sqlserver.define.DriverInstrumentation
+sqlserver-4.0=org.apache.skywalking.apm.plugin.sqlserver.define.ConnectionInstrumentation
+sqlserver-4.0=org.apache.skywalking.apm.plugin.sqlserver.define.SQLServerCallableInstrumentation
+sqlserver-4.0=org.apache.skywalking.apm.plugin.sqlserver.define.SQLServerPrepareStatementInstrumentation
+sqlserver-4.0=org.apache.skywalking.apm.plugin.sqlserver.define.SQLServerStatementInstrumentation
